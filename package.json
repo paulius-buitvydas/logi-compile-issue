@@ -1,0 +1,19 @@
+{
+  "name": "logi-compile-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/lodash": "^4.17.9",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "logi-embed": "^24.3.0"
+  }
+}
